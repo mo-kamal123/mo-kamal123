@@ -56,7 +56,7 @@
 
 ---
 
-### 📈 GitHub Stats (optional)
+### 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mo-kamal123&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub stats" />
