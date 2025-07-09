@@ -65,8 +65,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mo-kamal123/count.svg?"  />
-</div>
-
-###
